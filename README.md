@@ -6,4 +6,4 @@
 
 
 
-![Ppipes's profile views](https://komarev.com/ghpvc/?username=morrkof&label=PROFILE+VIEWS&style=flat-square)
+<!-- ![Ppipes's profile views](https://komarev.com/ghpvc/?username=morrkof&label=PROFILE+VIEWS&style=flat-square) -->
